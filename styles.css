@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+h1{
+	color:#3b99e0;
+}
+summary{
+	border-top:#5ea4f3;
+}
+div{
+	background-color:#f7fbff;
+}
